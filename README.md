@@ -4,6 +4,7 @@
 [Environment]::SetEnvironmentVariable("PATH", $Env:PATH + ";C:\Program Data\Neovim\ripgrep", [EnvironmentVariableTarget]::User)
 [Environment]::SetEnvironmentVariable("PATH", $Env:PATH + ";C:\Program Data\Neovim\node", [EnvironmentVariableTarget]::User)
 [Environment]::SetEnvironmentVariable("PATH", $Env:PATH + ";C:\Program Data\Neovim\bin", [EnvironmentVariableTarget]::User)
+[Environment]::SetEnvironmentVariable("PATH", $Env:PATH + ";C:\Program Data\Neovim\lazygit", [EnvironmentVariableTarget]::User)
 ```
 
 ```sh
