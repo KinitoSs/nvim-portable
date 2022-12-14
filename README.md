@@ -1,4 +1,4 @@
-# nvim-portable
+# Nvim Portable for User (non admin)
 
 ```sh
 [Environment]::SetEnvironmentVariable("PATH", $Env:PATH + ";C:\Users\kinbu\Neovim\ripgrep", [EnvironmentVariableTarget]::User)
