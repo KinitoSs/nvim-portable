@@ -10,3 +10,7 @@
 pip install pynvim
 npm i -g neovim
 ```
+
+```sh
+git clone https://github.com/KinitoSs/nvim-ide.git C:\Users\kinbu\AppData\Local\nvim
+```
